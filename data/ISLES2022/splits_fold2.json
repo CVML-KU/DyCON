@@ -1,0 +1,2010 @@
+{
+  "train": [
+    "sub-strokecase0003",
+    "sub-strokecase0004",
+    "sub-strokecase0005",
+    "sub-strokecase0006",
+    "sub-strokecase0007",
+    "sub-strokecase0010",
+    "sub-strokecase0012",
+    "sub-strokecase0013",
+    "sub-strokecase0014",
+    "sub-strokecase0015",
+    "sub-strokecase0016",
+    "sub-strokecase0018",
+    "sub-strokecase0019",
+    "sub-strokecase0020",
+    "sub-strokecase0021",
+    "sub-strokecase0023",
+    "sub-strokecase0025",
+    "sub-strokecase0026",
+    "sub-strokecase0027",
+    "sub-strokecase0028",
+    "sub-strokecase0029",
+    "sub-strokecase0030",
+    "sub-strokecase0031",
+    "sub-strokecase0032",
+    "sub-strokecase0033",
+    "sub-strokecase0035",
+    "sub-strokecase0036",
+    "sub-strokecase0037",
+    "sub-strokecase0040",
+    "sub-strokecase0041",
+    "sub-strokecase0042",
+    "sub-strokecase0043",
+    "sub-strokecase0045",
+    "sub-strokecase0046",
+    "sub-strokecase0047",
+    "sub-strokecase0048",
+    "sub-strokecase0049",
+    "sub-strokecase0050",
+    "sub-strokecase0053",
+    "sub-strokecase0055",
+    "sub-strokecase0056",
+    "sub-strokecase0058",
+    "sub-strokecase0060",
+    "sub-strokecase0061",
+    "sub-strokecase0062",
+    "sub-strokecase0063",
+    "sub-strokecase0064",
+    "sub-strokecase0065",
+    "sub-strokecase0067",
+    "sub-strokecase0068",
+    "sub-strokecase0069",
+    "sub-strokecase0070",
+    "sub-strokecase0071",
+    "sub-strokecase0072",
+    "sub-strokecase0073",
+    "sub-strokecase0074",
+    "sub-strokecase0075",
+    "sub-strokecase0076",
+    "sub-strokecase0077",
+    "sub-strokecase0078",
+    "sub-strokecase0079",
+    "sub-strokecase0080",
+    "sub-strokecase0081",
+    "sub-strokecase0082",
+    "sub-strokecase0084",
+    "sub-strokecase0085",
+    "sub-strokecase0087",
+    "sub-strokecase0088",
+    "sub-strokecase0089",
+    "sub-strokecase0090",
+    "sub-strokecase0091",
+    "sub-strokecase0092",
+    "sub-strokecase0093",
+    "sub-strokecase0094",
+    "sub-strokecase0095",
+    "sub-strokecase0096",
+    "sub-strokecase0097",
+    "sub-strokecase0099",
+    "sub-strokecase0100",
+    "sub-strokecase0102",
+    "sub-strokecase0103",
+    "sub-strokecase0104",
+    "sub-strokecase0105",
+    "sub-strokecase0106",
+    "sub-strokecase0107",
+    "sub-strokecase0108",
+    "sub-strokecase0109",
+    "sub-strokecase0110",
+    "sub-strokecase0112",
+    "sub-strokecase0113",
+    "sub-strokecase0114",
+    "sub-strokecase0115",
+    "sub-strokecase0116",
+    "sub-strokecase0117",
+    "sub-strokecase0118",
+    "sub-strokecase0120",
+    "sub-strokecase0121",
+    "sub-strokecase0123",
+    "sub-strokecase0124",
+    "sub-strokecase0126",
+    "sub-strokecase0127",
+    "sub-strokecase0129",
+    "sub-strokecase0130",
+    "sub-strokecase0131",
+    "sub-strokecase0133",
+    "sub-strokecase0134",
+    "sub-strokecase0135",
+    "sub-strokecase0138",
+    "sub-strokecase0140",
+    "sub-strokecase0142",
+    "sub-strokecase0143",
+    "sub-strokecase0144",
+    "sub-strokecase0145",
+    "sub-strokecase0146",
+    "sub-strokecase0147",
+    "sub-strokecase0148",
+    "sub-strokecase0149",
+    "sub-strokecase0150",
+    "sub-strokecase0151",
+    "sub-strokecase0152",
+    "sub-strokecase0153",
+    "sub-strokecase0154",
+    "sub-strokecase0155",
+    "sub-strokecase0157",
+    "sub-strokecase0159",
+    "sub-strokecase0161",
+    "sub-strokecase0162",
+    "sub-strokecase0163",
+    "sub-strokecase0164",
+    "sub-strokecase0165",
+    "sub-strokecase0166",
+    "sub-strokecase0167",
+    "sub-strokecase0168",
+    "sub-strokecase0169",
+    "sub-strokecase0170",
+    "sub-strokecase0171",
+    "sub-strokecase0172",
+    "sub-strokecase0173",
+    "sub-strokecase0174",
+    "sub-strokecase0175",
+    "sub-strokecase0176",
+    "sub-strokecase0177",
+    "sub-strokecase0178",
+    "sub-strokecase0179",
+    "sub-strokecase0180",
+    "sub-strokecase0181",
+    "sub-strokecase0182",
+    "sub-strokecase0184",
+    "sub-strokecase0185",
+    "sub-strokecase0187",
+    "sub-strokecase0188",
+    "sub-strokecase0190",
+    "sub-strokecase0191",
+    "sub-strokecase0192",
+    "sub-strokecase0193",
+    "sub-strokecase0194",
+    "sub-strokecase0197",
+    "sub-strokecase0198",
+    "sub-strokecase0201",
+    "sub-strokecase0203",
+    "sub-strokecase0205",
+    "sub-strokecase0206",
+    "sub-strokecase0207",
+    "sub-strokecase0208",
+    "sub-strokecase0209",
+    "sub-strokecase0210",
+    "sub-strokecase0211",
+    "sub-strokecase0212",
+    "sub-strokecase0213",
+    "sub-strokecase0214",
+    "sub-strokecase0217",
+    "sub-strokecase0219",
+    "sub-strokecase0220",
+    "sub-strokecase0221",
+    "sub-strokecase0222",
+    "sub-strokecase0223",
+    "sub-strokecase0225",
+    "sub-strokecase0226",
+    "sub-strokecase0228",
+    "sub-strokecase0229",
+    "sub-strokecase0230",
+    "sub-strokecase0231",
+    "sub-strokecase0232",
+    "sub-strokecase0233",
+    "sub-strokecase0234",
+    "sub-strokecase0235",
+    "sub-strokecase0236",
+    "sub-strokecase0237",
+    "sub-strokecase0238",
+    "sub-strokecase0239",
+    "sub-strokecase0240",
+    "sub-strokecase0241",
+    "sub-strokecase0242",
+    "sub-strokecase0243",
+    "sub-strokecase0244",
+    "sub-strokecase0245",
+    "sub-strokecase0246",
+    "sub-strokecase0247",
+    "sub-strokecase0248",
+    "sub-strokecase0249"
+  ],
+  "val": [
+    "sub-strokecase0002",
+    "sub-strokecase0009",
+    "sub-strokecase0017",
+    "sub-strokecase0022",
+    "sub-strokecase0024",
+    "sub-strokecase0034",
+    "sub-strokecase0038",
+    "sub-strokecase0039",
+    "sub-strokecase0057",
+    "sub-strokecase0059",
+    "sub-strokecase0101",
+    "sub-strokecase0111",
+    "sub-strokecase0119",
+    "sub-strokecase0122",
+    "sub-strokecase0139",
+    "sub-strokecase0141",
+    "sub-strokecase0189",
+    "sub-strokecase0195",
+    "sub-strokecase0196",
+    "sub-strokecase0200",
+    "sub-strokecase0202",
+    "sub-strokecase0215",
+    "sub-strokecase0224",
+    "sub-strokecase0227",
+    "sub-strokecase0250"
+  ],
+  "test": [
+    "sub-strokecase0001",
+    "sub-strokecase0008",
+    "sub-strokecase0011",
+    "sub-strokecase0044",
+    "sub-strokecase0051",
+    "sub-strokecase0052",
+    "sub-strokecase0054",
+    "sub-strokecase0066",
+    "sub-strokecase0083",
+    "sub-strokecase0086",
+    "sub-strokecase0098",
+    "sub-strokecase0125",
+    "sub-strokecase0128",
+    "sub-strokecase0132",
+    "sub-strokecase0136",
+    "sub-strokecase0137",
+    "sub-strokecase0156",
+    "sub-strokecase0158",
+    "sub-strokecase0160",
+    "sub-strokecase0183",
+    "sub-strokecase0186",
+    "sub-strokecase0199",
+    "sub-strokecase0204",
+    "sub-strokecase0216",
+    "sub-strokecase0218"
+  ],
+  "metrics": [
+    {
+      "case_id": "sub-strokecase0001",
+      "volume": 835,
+      "num_components": 38,
+      "difficulty_score": 0.26138051855433386,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0002",
+      "volume": 118,
+      "num_components": 1,
+      "difficulty_score": 0.33827327623014164,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0003",
+      "volume": 3869,
+      "num_components": 49,
+      "difficulty_score": 0.18617814105146352,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0004",
+      "volume": 281,
+      "num_components": 8,
+      "difficulty_score": 0.29659020286827387,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0005",
+      "volume": 728,
+      "num_components": 9,
+      "difficulty_score": 0.24523072004166205,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0006",
+      "volume": 5,
+      "num_components": 2,
+      "difficulty_score": 0.5032016338305948,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0007",
+      "volume": 439,
+      "num_components": 9,
+      "difficulty_score": 0.27296754774296017,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0008",
+      "volume": 94,
+      "num_components": 5,
+      "difficulty_score": 0.3539125940129767,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0009",
+      "volume": 523,
+      "num_components": 21,
+      "difficulty_score": 0.2731653205498554,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0010",
+      "volume": 421,
+      "num_components": 17,
+      "difficulty_score": 0.2817927793005775,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0011",
+      "volume": 1399,
+      "num_components": 15,
+      "difficulty_score": 0.21428037752786522,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0012",
+      "volume": 56,
+      "num_components": 1,
+      "difficulty_score": 0.37870969674620614,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0013",
+      "volume": 3644,
+      "num_components": 31,
+      "difficulty_score": 0.17477479173687013,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0014",
+      "volume": 1549,
+      "num_components": 15,
+      "difficulty_score": 0.20868890472527957,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0015",
+      "volume": 1651,
+      "num_components": 2,
+      "difficulty_score": 0.19457553110825299,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0016",
+      "volume": 26,
+      "num_components": 2,
+      "difficulty_score": 0.42057454369434205,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0017",
+      "volume": 1929,
+      "num_components": 12,
+      "difficulty_score": 0.1941945111770565,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0018",
+      "volume": 133,
+      "num_components": 1,
+      "difficulty_score": 0.3317515486868085,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0019",
+      "volume": 8572,
+      "num_components": 16,
+      "difficulty_score": 0.11554577049794684,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0020",
+      "volume": 1107,
+      "num_components": 3,
+      "difficulty_score": 0.2173347083549878,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0021",
+      "volume": 2215,
+      "num_components": 12,
+      "difficulty_score": 0.18660333102203477,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0022",
+      "volume": 163,
+      "num_components": 2,
+      "difficulty_score": 0.3214694620459891,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0023",
+      "volume": 55376,
+      "num_components": 10,
+      "difficulty_score": 0.008163265855309881,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0024",
+      "volume": 3005,
+      "num_components": 15,
+      "difficulty_score": 0.17230214950691708,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0025",
+      "volume": 969,
+      "num_components": 4,
+      "difficulty_score": 0.22545831054405582,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0026",
+      "volume": 451,
+      "num_components": 12,
+      "difficulty_score": 0.27393835570440617,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0027",
+      "volume": 822,
+      "num_components": 10,
+      "difficulty_score": 0.2393843459079894,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0028",
+      "volume": 909,
+      "num_components": 6,
+      "difficulty_score": 0.23059866961989195,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0029",
+      "volume": 1095,
+      "num_components": 17,
+      "difficulty_score": 0.2293614932932639,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0030",
+      "volume": 64,
+      "num_components": 8,
+      "difficulty_score": 0.3772089869397354,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0031",
+      "volume": 11634,
+      "num_components": 22,
+      "difficulty_score": 0.10366645550502232,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0032",
+      "volume": 67,
+      "num_components": 1,
+      "difficulty_score": 0.3690159921638538,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0033",
+      "volume": 5644,
+      "num_components": 17,
+      "difficulty_score": 0.13931671743014087,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0034",
+      "volume": 155,
+      "num_components": 3,
+      "difficulty_score": 0.32503313092574243,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0035",
+      "volume": 18,
+      "num_components": 1,
+      "difficulty_score": 0.4390623998684892,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0036",
+      "volume": 2321,
+      "num_components": 9,
+      "difficulty_score": 0.1815874886832519,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0037",
+      "volume": 61,
+      "num_components": 2,
+      "difficulty_score": 0.37490688378332654,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0038",
+      "volume": 1289,
+      "num_components": 5,
+      "difficulty_score": 0.21061247682754075,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0039",
+      "volume": 2266,
+      "num_components": 10,
+      "difficulty_score": 0.18372069974807434,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0040",
+      "volume": 1327,
+      "num_components": 14,
+      "difficulty_score": 0.2163645403252943,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0041",
+      "volume": 653,
+      "num_components": 10,
+      "difficulty_score": 0.2520111838771722,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0042",
+      "volume": 587,
+      "num_components": 7,
+      "difficulty_score": 0.25540625407458156,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0043",
+      "volume": 3843,
+      "num_components": 56,
+      "difficulty_score": 0.19226274715762365,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0044",
+      "volume": 154,
+      "num_components": 5,
+      "difficulty_score": 0.32701906750553195,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0045",
+      "volume": 96,
+      "num_components": 1,
+      "difficulty_score": 0.3495027590384772,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0046",
+      "volume": 46,
+      "num_components": 1,
+      "difficulty_score": 0.3893069363847012,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0047",
+      "volume": 6408,
+      "num_components": 9,
+      "difficulty_score": 0.12581298731746424,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0048",
+      "volume": 6875,
+      "num_components": 43,
+      "difficulty_score": 0.1497042721522256,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0049",
+      "volume": 610,
+      "num_components": 15,
+      "difficulty_score": 0.25982899448590485,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0050",
+      "volume": 1905,
+      "num_components": 15,
+      "difficulty_score": 0.197330908261593,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0051",
+      "volume": 390,
+      "num_components": 9,
+      "difficulty_score": 0.2794536145269659,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0052",
+      "volume": 2053,
+      "num_components": 9,
+      "difficulty_score": 0.18832475333332457,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0053",
+      "volume": 90,
+      "num_components": 2,
+      "difficulty_score": 0.3538267915837177,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0054",
+      "volume": 412,
+      "num_components": 6,
+      "difficulty_score": 0.27399746944726194,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0055",
+      "volume": 3230,
+      "num_components": 4,
+      "difficulty_score": 0.15935724399310497,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0056",
+      "volume": 84,
+      "num_components": 4,
+      "difficulty_score": 0.3592064919943724,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0057",
+      "volume": 7400,
+      "num_components": 3,
+      "difficulty_score": 0.11300917210226993,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0058",
+      "volume": 246,
+      "num_components": 4,
+      "difficulty_score": 0.3006048661331414,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0059",
+      "volume": 87,
+      "num_components": 1,
+      "difficulty_score": 0.3548520474760903,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0060",
+      "volume": 4198,
+      "num_components": 5,
+      "difficulty_score": 0.14577749051362185,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0061",
+      "volume": 88,
+      "num_components": 1,
+      "difficulty_score": 0.35423130191308444,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0062",
+      "volume": 24752,
+      "num_components": 7,
+      "difficulty_score": 0.04994923826547448,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0063",
+      "volume": 758,
+      "num_components": 2,
+      "difficulty_score": 0.2373009971110637,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0064",
+      "volume": 42,
+      "num_components": 2,
+      "difficulty_score": 0.39500962844424514,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0065",
+      "volume": 3385,
+      "num_components": 6,
+      "difficulty_score": 0.15841575632967198,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0066",
+      "volume": 8963,
+      "num_components": 1,
+      "difficulty_score": 0.10085081827732925,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0067",
+      "volume": 39,
+      "num_components": 1,
+      "difficulty_score": 0.39816626622776075,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0068",
+      "volume": 461,
+      "num_components": 5,
+      "difficulty_score": 0.26702193454247747,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0069",
+      "volume": 17,
+      "num_components": 1,
+      "difficulty_score": 0.44203260417771617,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0070",
+      "volume": 67,
+      "num_components": 1,
+      "difficulty_score": 0.3690159921638538,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0071",
+      "volume": 218,
+      "num_components": 7,
+      "difficulty_score": 0.30966348638385144,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0072",
+      "volume": 1016,
+      "num_components": 12,
+      "difficulty_score": 0.22938958167646678,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0073",
+      "volume": 195,
+      "num_components": 12,
+      "difficulty_score": 0.31984058984984254,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0074",
+      "volume": 663,
+      "num_components": 11,
+      "difficulty_score": 0.25199387684182084,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0075",
+      "volume": 309,
+      "num_components": 12,
+      "difficulty_score": 0.29465503711138763,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0076",
+      "volume": 757,
+      "num_components": 28,
+      "difficulty_score": 0.25859791328199,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0077",
+      "volume": 5054,
+      "num_components": 6,
+      "difficulty_score": 0.13640157298897748,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0078",
+      "volume": 14052,
+      "num_components": 8,
+      "difficulty_score": 0.08186508667345647,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0079",
+      "volume": 37,
+      "num_components": 4,
+      "difficulty_score": 0.4034330633519626,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0080",
+      "volume": 82,
+      "num_components": 2,
+      "difficulty_score": 0.3588818863914006,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0081",
+      "volume": 15709,
+      "num_components": 8,
+      "difficulty_score": 0.0757419017453515,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0082",
+      "volume": 121,
+      "num_components": 1,
+      "difficulty_score": 0.3369055193271858,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0083",
+      "volume": 13897,
+      "num_components": 5,
+      "difficulty_score": 0.08002539289944129,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0084",
+      "volume": 896,
+      "num_components": 2,
+      "difficulty_score": 0.2281238145134944,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0085",
+      "volume": 3631,
+      "num_components": 6,
+      "difficulty_score": 0.15456290741421486,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0086",
+      "volume": 5845,
+      "num_components": 2,
+      "difficulty_score": 0.12514976893835386,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0087",
+      "volume": 9781,
+      "num_components": 4,
+      "difficulty_score": 0.09850243207056057,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0088",
+      "volume": 55,
+      "num_components": 1,
+      "difficulty_score": 0.3796820300553166,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0089",
+      "volume": 192,
+      "num_components": 1,
+      "difficulty_score": 0.31170834742671333,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0090",
+      "volume": 451,
+      "num_components": 10,
+      "difficulty_score": 0.27230570264321496,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0091",
+      "volume": 6075,
+      "num_components": 43,
+      "difficulty_score": 0.1564992591287545,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0092",
+      "volume": 8254,
+      "num_components": 6,
+      "difficulty_score": 0.10945898919430469,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0093",
+      "volume": 42,
+      "num_components": 1,
+      "difficulty_score": 0.3941933019136496,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0094",
+      "volume": 567,
+      "num_components": 13,
+      "difficulty_score": 0.26220528177011365,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0095",
+      "volume": 310,
+      "num_components": 11,
+      "difficulty_score": 0.2936617848310369,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0096",
+      "volume": 158,
+      "num_components": 2,
+      "difficulty_score": 0.3231703842267767,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0097",
+      "volume": 910,
+      "num_components": 21,
+      "difficulty_score": 0.2427832321550618,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0098",
+      "volume": 169,
+      "num_components": 14,
+      "difficulty_score": 0.3292914411920149,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0099",
+      "volume": 467,
+      "num_components": 6,
+      "difficulty_score": 0.26712940739524615,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0100",
+      "volume": 71,
+      "num_components": 1,
+      "difficulty_score": 0.36587597196108945,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0101",
+      "volume": 9633,
+      "num_components": 3,
+      "difficulty_score": 0.09852362061533157,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0102",
+      "volume": 8447,
+      "num_components": 14,
+      "difficulty_score": 0.11472000870998304,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0103",
+      "volume": 24,
+      "num_components": 1,
+      "difficulty_score": 0.42398610257480596,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0104",
+      "volume": 9644,
+      "num_components": 17,
+      "difficulty_score": 0.10988950316545634,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0105",
+      "volume": 1682,
+      "num_components": 6,
+      "difficulty_score": 0.19681952005932718,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0106",
+      "volume": 773,
+      "num_components": 1,
+      "difficulty_score": 0.23540957956077013,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0107",
+      "volume": 5023,
+      "num_components": 37,
+      "difficulty_score": 0.16204562632391295,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0108",
+      "volume": 545,
+      "num_components": 19,
+      "difficulty_score": 0.2692733233732463,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0109",
+      "volume": 728,
+      "num_components": 1,
+      "difficulty_score": 0.23870010779689735,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0110",
+      "volume": 1147,
+      "num_components": 11,
+      "difficulty_score": 0.22191705267101056,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0111",
+      "volume": 23,
+      "num_components": 1,
+      "difficulty_score": 0.4262286750833725,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0112",
+      "volume": 55,
+      "num_components": 1,
+      "difficulty_score": 0.3796820300553166,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0113",
+      "volume": 7850,
+      "num_components": 18,
+      "difficulty_score": 0.1220114650259151,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0114",
+      "volume": 774,
+      "num_components": 1,
+      "difficulty_score": 0.23533864940525473,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0115",
+      "volume": 15,
+      "num_components": 1,
+      "difficulty_score": 0.44850306209734214,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0116",
+      "volume": 17437,
+      "num_components": 5,
+      "difficulty_score": 0.06756017822753331,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0117",
+      "volume": 6,
+      "num_components": 2,
+      "difficulty_score": 0.4947333049108522,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0118",
+      "volume": 798,
+      "num_components": 6,
+      "difficulty_score": 0.23774486688756397,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0119",
+      "volume": 70,
+      "num_components": 1,
+      "difficulty_score": 0.3666443117279068,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0120",
+      "volume": 3786,
+      "num_components": 17,
+      "difficulty_score": 0.16124671117060738,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0121",
+      "volume": 512,
+      "num_components": 1,
+      "difficulty_score": 0.2580042905016401,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0122",
+      "volume": 1716,
+      "num_components": 1,
+      "difficulty_score": 0.19163914282425576,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0123",
+      "volume": 11603,
+      "num_components": 13,
+      "difficulty_score": 0.09646608055275269,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0124",
+      "volume": 418,
+      "num_components": 1,
+      "difficulty_score": 0.2691234855898619,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0125",
+      "volume": 4467,
+      "num_components": 2,
+      "difficulty_score": 0.13991732598812653,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0126",
+      "volume": 521,
+      "num_components": 5,
+      "difficulty_score": 0.26031417431945203,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0127",
+      "volume": 17908,
+      "num_components": 5,
+      "difficulty_score": 0.06609605940930885,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0128",
+      "volume": 128,
+      "num_components": 3,
+      "difficulty_score": 0.3354732518525577,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0129",
+      "volume": 135,
+      "num_components": 4,
+      "difficulty_score": 0.33338665564732706,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0130",
+      "volume": 549,
+      "num_components": 14,
+      "difficulty_score": 0.26479070063467003,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0131",
+      "volume": 1297,
+      "num_components": 6,
+      "difficulty_score": 0.2110891707597224,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0132",
+      "volume": 240,
+      "num_components": 5,
+      "difficulty_score": 0.3027721311779116,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0133",
+      "volume": 423,
+      "num_components": 16,
+      "difficulty_score": 0.2807167104524578,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0134",
+      "volume": 72,
+      "num_components": 1,
+      "difficulty_score": 0.36511823032256097,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0135",
+      "volume": 182,
+      "num_components": 3,
+      "difficulty_score": 0.31626378537440736,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0136",
+      "volume": 25,
+      "num_components": 1,
+      "difficulty_score": 0.4218314970951477,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0137",
+      "volume": 562,
+      "num_components": 2,
+      "difficulty_score": 0.25371141721655044,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0138",
+      "volume": 25,
+      "num_components": 1,
+      "difficulty_score": 0.4218314970951477,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0139",
+      "volume": 70,
+      "num_components": 2,
+      "difficulty_score": 0.36746063825850234,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0140",
+      "volume": 17671,
+      "num_components": 5,
+      "difficulty_score": 0.06682790403624904,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0141",
+      "volume": 15,
+      "num_components": 5,
+      "difficulty_score": 0.4517683682197245,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0142",
+      "volume": 321,
+      "num_components": 1,
+      "difficulty_score": 0.2835890401736641,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0143",
+      "volume": 330,
+      "num_components": 4,
+      "difficulty_score": 0.2845236250020992,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0144",
+      "volume": 10,
+      "num_components": 1,
+      "difficulty_score": 0.4690869958010304,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0145",
+      "volume": 584,
+      "num_components": 19,
+      "difficulty_score": 0.2654831725317207,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0146",
+      "volume": 2627,
+      "num_components": 11,
+      "difficulty_score": 0.17641945716732402,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0147",
+      "volume": 108,
+      "num_components": 8,
+      "difficulty_score": 0.34880955004657743,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0148",
+      "volume": 285,
+      "num_components": 2,
+      "difficulty_score": 0.2909184928961781,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0149",
+      "volume": 46,
+      "num_components": 2,
+      "difficulty_score": 0.39012326291529675,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0150",
+      "volume": 0,
+      "num_components": 0,
+      "difficulty_score": 0.6,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0151",
+      "volume": 0,
+      "num_components": 0,
+      "difficulty_score": 0.6,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0152",
+      "volume": 169,
+      "num_components": 23,
+      "difficulty_score": 0.33663837996737517,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0153",
+      "volume": 8208,
+      "num_components": 221,
+      "difficulty_score": 0.28527617029799823,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0154",
+      "volume": 682,
+      "num_components": 4,
+      "difficulty_score": 0.2447297146751828,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0155",
+      "volume": 4320,
+      "num_components": 19,
+      "difficulty_score": 0.15563268713932668,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0156",
+      "volume": 1712,
+      "num_components": 9,
+      "difficulty_score": 0.19829788433483633,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0157",
+      "volume": 442,
+      "num_components": 7,
+      "difficulty_score": 0.2709616062840979,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0158",
+      "volume": 362,
+      "num_components": 14,
+      "difficulty_score": 0.2876172068469248,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0159",
+      "volume": 589,
+      "num_components": 47,
+      "difficulty_score": 0.2878727772658117,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0160",
+      "volume": 554,
+      "num_components": 8,
+      "difficulty_score": 0.2593955851366508,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0161",
+      "volume": 14401,
+      "num_components": 12,
+      "difficulty_score": 0.08378276213035421,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0162",
+      "volume": 7764,
+      "num_components": 113,
+      "difficulty_score": 0.20016756893344567,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0163",
+      "volume": 684,
+      "num_components": 3,
+      "difficulty_score": 0.243752758211971,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0164",
+      "volume": 4836,
+      "num_components": 19,
+      "difficulty_score": 0.14943554374308224,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0165",
+      "volume": 3416,
+      "num_components": 120,
+      "difficulty_score": 0.2509763166635984,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0166",
+      "volume": 11043,
+      "num_components": 48,
+      "difficulty_score": 0.12775475520387092,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0167",
+      "volume": 408,
+      "num_components": 4,
+      "difficulty_score": 0.2728994716798819,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0168",
+      "volume": 3817,
+      "num_components": 17,
+      "difficulty_score": 0.16079884614374182,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0169",
+      "volume": 406,
+      "num_components": 8,
+      "difficulty_score": 0.2764340695072634,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0170",
+      "volume": 0,
+      "num_components": 0,
+      "difficulty_score": 0.6,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0171",
+      "volume": 3876,
+      "num_components": 49,
+      "difficulty_score": 0.1860788644568182,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0172",
+      "volume": 728,
+      "num_components": 7,
+      "difficulty_score": 0.24359806698047087,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0173",
+      "volume": 4316,
+      "num_components": 7,
+      "difficulty_score": 0.1458876466621926,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0174",
+      "volume": 108,
+      "num_components": 1,
+      "difficulty_score": 0.34309526433240833,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0175",
+      "volume": 802,
+      "num_components": 2,
+      "difficulty_score": 0.2342052261235914,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0176",
+      "volume": 6242,
+      "num_components": 20,
+      "difficulty_score": 0.1362342167409068,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0177",
+      "volume": 35,
+      "num_components": 2,
+      "difficulty_score": 0.4047706145999983,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0178",
+      "volume": 1920,
+      "num_components": 49,
+      "difficulty_score": 0.22465536740295433,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0179",
+      "volume": 3552,
+      "num_components": 9,
+      "difficulty_score": 0.15821997923357364,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0180",
+      "volume": 2471,
+      "num_components": 26,
+      "difficulty_score": 0.1920261576157756,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0181",
+      "volume": 2026,
+      "num_components": 5,
+      "difficulty_score": 0.18578636580107094,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0182",
+      "volume": 210,
+      "num_components": 6,
+      "difficulty_score": 0.31089150357233947,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0183",
+      "volume": 652,
+      "num_components": 20,
+      "difficulty_score": 0.2602585125473737,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0184",
+      "volume": 1668,
+      "num_components": 8,
+      "difficulty_score": 0.19891106336008257,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0185",
+      "volume": 458,
+      "num_components": 14,
+      "difficulty_score": 0.274726759911374,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0186",
+      "volume": 1783,
+      "num_components": 153,
+      "difficulty_score": 0.313617878537709,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0187",
+      "volume": 1197,
+      "num_components": 15,
+      "difficulty_score": 0.22284034182801235,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0188",
+      "volume": 3192,
+      "num_components": 12,
+      "difficulty_score": 0.16653778446510936,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0189",
+      "volume": 1846,
+      "num_components": 3,
+      "difficulty_score": 0.18926238425743688,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0190",
+      "volume": 1361,
+      "num_components": 3,
+      "difficulty_score": 0.20599617302508513,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0191",
+      "volume": 13530,
+      "num_components": 136,
+      "difficulty_score": 0.1884343273084934,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0192",
+      "volume": 2824,
+      "num_components": 7,
+      "difficulty_score": 0.16918313131226534,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0193",
+      "volume": 3684,
+      "num_components": 26,
+      "difficulty_score": 0.17009358535255145,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0194",
+      "volume": 2499,
+      "num_components": 74,
+      "difficulty_score": 0.23059108313586735,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0195",
+      "volume": 3031,
+      "num_components": 139,
+      "difficulty_score": 0.27305352596147325,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0196",
+      "volume": 1684,
+      "num_components": 3,
+      "difficulty_score": 0.19430529651947379,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0197",
+      "volume": 760,
+      "num_components": 22,
+      "difficulty_score": 0.2534829608031908,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0198",
+      "volume": 788,
+      "num_components": 14,
+      "difficulty_score": 0.24496736986265988,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0199",
+      "volume": 3096,
+      "num_components": 6,
+      "difficulty_score": 0.16331683887059384,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0200",
+      "volume": 2792,
+      "num_components": 2,
+      "difficulty_score": 0.16572732697612402,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0201",
+      "volume": 19044,
+      "num_components": 63,
+      "difficulty_score": 0.11006440418903451,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0202",
+      "volume": 2338,
+      "num_components": 6,
+      "difficulty_score": 0.1787377771008954,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0203",
+      "volume": 135,
+      "num_components": 5,
+      "difficulty_score": 0.33420298217792266,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0204",
+      "volume": 1743,
+      "num_components": 2,
+      "difficulty_score": 0.19159832642975044,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0205",
+      "volume": 4608,
+      "num_components": 10,
+      "difficulty_score": 0.14474109363565693,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0206",
+      "volume": 1594,
+      "num_components": 34,
+      "difficulty_score": 0.2226269233521435,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0207",
+      "volume": 5440,
+      "num_components": 18,
+      "difficulty_score": 0.1421550692821642,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0208",
+      "volume": 8172,
+      "num_components": 62,
+      "difficulty_score": 0.15572169711762962,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0209",
+      "volume": 6724,
+      "num_components": 102,
+      "difficulty_score": 0.19908738686717514,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0210",
+      "volume": 4846,
+      "num_components": 29,
+      "difficulty_score": 0.15748535300331062,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0211",
+      "volume": 7494,
+      "num_components": 30,
+      "difficulty_score": 0.1343566484792164,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0212",
+      "volume": 138,
+      "num_components": 4,
+      "difficulty_score": 0.33218801759876126,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0213",
+      "volume": 804,
+      "num_components": 7,
+      "difficulty_score": 0.23815020348765611,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0214",
+      "volume": 337,
+      "num_components": 5,
+      "difficulty_score": 0.2841902898903955,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0215",
+      "volume": 4730,
+      "num_components": 30,
+      "difficulty_score": 0.15963239946368768,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0216",
+      "volume": 140,
+      "num_components": 9,
+      "difficulty_score": 0.3354848455071828,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0217",
+      "volume": 6090,
+      "num_components": 7,
+      "difficulty_score": 0.1269760505244441,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0218",
+      "volume": 1674,
+      "num_components": 26,
+      "difficulty_score": 0.21340780410422183,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0219",
+      "volume": 2114,
+      "num_components": 30,
+      "difficulty_score": 0.20385988754951234,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0220",
+      "volume": 680,
+      "num_components": 3,
+      "difficulty_score": 0.24407448913339852,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0221",
+      "volume": 11862,
+      "num_components": 9,
+      "difficulty_score": 0.09198810593475512,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0222",
+      "volume": 52038,
+      "num_components": 58,
+      "difficulty_score": 0.05076232286665678,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0223",
+      "volume": 17435,
+      "num_components": 7,
+      "difficulty_score": 0.06919913230356364,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0224",
+      "volume": 2447,
+      "num_components": 15,
+      "difficulty_score": 0.18358252513099915,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0225",
+      "volume": 330,
+      "num_components": 15,
+      "difficulty_score": 0.29350321683865066,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0226",
+      "volume": 1094,
+      "num_components": 24,
+      "difficulty_score": 0.23512592542608154,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0227",
+      "volume": 1537,
+      "num_components": 6,
+      "difficulty_score": 0.2017689271494939,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0228",
+      "volume": 1513,
+      "num_components": 196,
+      "difficulty_score": 0.35773497630158063,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0229",
+      "volume": 6736,
+      "num_components": 141,
+      "difficulty_score": 0.23082618292596774,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0230",
+      "volume": 34182,
+      "num_components": 26,
+      "difficulty_score": 0.047727298466266846,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0231",
+      "volume": 4085,
+      "num_components": 7,
+      "difficulty_score": 0.14890877602518446,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0232",
+      "volume": 364,
+      "num_components": 6,
+      "difficulty_score": 0.2807847509976441,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0233",
+      "volume": 8,
+      "num_components": 1,
+      "difficulty_score": 0.48011092028602953,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0234",
+      "volume": 29,
+      "num_components": 4,
+      "difficulty_score": 0.4164191749138911,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0235",
+      "volume": 1502,
+      "num_components": 15,
+      "difficulty_score": 0.21038046561523047,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0236",
+      "volume": 8889,
+      "num_components": 107,
+      "difficulty_score": 0.1878368178529411,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0237",
+      "volume": 9906,
+      "num_components": 8,
+      "difficulty_score": 0.10107018961361938,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0238",
+      "volume": 4084,
+      "num_components": 88,
+      "difficulty_score": 0.2150446714354643,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0239",
+      "volume": 3270,
+      "num_components": 36,
+      "difficulty_score": 0.1848037644471727,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0240",
+      "volume": 26551,
+      "num_components": 2,
+      "difficulty_score": 0.042013427062685946,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0241",
+      "volume": 450,
+      "num_components": 15,
+      "difficulty_score": 0.2765090084307933,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0242",
+      "volume": 900,
+      "num_components": 2,
+      "difficulty_score": 0.22787938519894463,
+      "difficulty_bin": 1
+    },
+    {
+      "case_id": "sub-strokecase0243",
+      "volume": 2602,
+      "num_components": 8,
+      "difficulty_score": 0.17449557618073736,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0244",
+      "volume": 4339,
+      "num_components": 18,
+      "difficulty_score": 0.15457533203630897,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0245",
+      "volume": 2787,
+      "num_components": 3,
+      "difficulty_score": 0.16664208642646958,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0246",
+      "volume": 27032,
+      "num_components": 17,
+      "difficulty_score": 0.05327205512924721,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0247",
+      "volume": 2274,
+      "num_components": 16,
+      "difficulty_score": 0.1884251390562664,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0248",
+      "volume": 5082,
+      "num_components": 490,
+      "difficulty_score": 0.5312001624163079,
+      "difficulty_bin": 2
+    },
+    {
+      "case_id": "sub-strokecase0249",
+      "volume": 2019,
+      "num_components": 3,
+      "difficulty_score": 0.18434375384104057,
+      "difficulty_bin": 0
+    },
+    {
+      "case_id": "sub-strokecase0250",
+      "volume": 1554,
+      "num_components": 30,
+      "difficulty_score": 0.22075687693445822,
+      "difficulty_bin": 1
+    }
+  ]
+}
